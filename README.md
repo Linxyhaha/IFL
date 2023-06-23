@@ -1,6 +1,7 @@
 # IFL: Mitigating Spurious Correlations for Self-supervised Recommendation
 This is the pytorch implementation of our paper
 > Mitigating Spurious Correlations for Self-supervised Recommendation
+>
 > Xinyu Lin, Yiyan Xu, Wenjie Wang, Yang Zhang, Fuli Feng
 
 ## Environment
