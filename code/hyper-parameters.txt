@@ -1,0 +1,5 @@
+XING:
+sh run.sh IFL XING 0.01 64 1024 [] [] 0.7 0.7 0.001 2 0.0001 0.0001 [0,0] 0 log 0
+
+Meituan:
+sh run.sh IFL Meituan 0.01 64 200 [] [] 0.3 1 0.01 2 0.0001 0.0001 [0,0] 0 log 0
